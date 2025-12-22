@@ -88,4 +88,5 @@ GPA: 3.53
 ## 📫 Contact
 📧 Email: zahwanis440@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/zahwa-anisya-fatimah-az-zahra-02722b31a
+
 🔗 GitHub: https://github.com/ZahwaAnisya
