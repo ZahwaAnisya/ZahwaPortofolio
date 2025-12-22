@@ -39,7 +39,7 @@ Android Studio • Wear OS • Figma
 **Role**  
 UI design, prototype flow, usability evaluation
 
-![Wear OS UI](assets/WearOs.png)
+![Wear OS UI](assets/WearOS.png)
 
 
 
