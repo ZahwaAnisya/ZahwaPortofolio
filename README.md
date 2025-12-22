@@ -4,7 +4,6 @@
 Computer Technology graduate passionate about **IoT systems, Wear OS UI/UX, data monitoring dashboards, and product-oriented solutions**.  
 Experienced in designing, prototyping, and documenting technology projects with real-world applications. Familiar with Agile work processes, cross-functional collaboration, and continuous improvement.
 
----
 
 ## 🛠 Skills
 **Languages & Platforms**  
