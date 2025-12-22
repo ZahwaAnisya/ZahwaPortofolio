@@ -1,74 +1,92 @@
-# Zahwa Anisya Fatimah Az-Zahra – Portfolio
+# 👩‍💻 Zahwa Anisya Fatimah Az-Zahra – Professional Portfolio
 
-## About Me
-Computer Technology graduate with experience in IoT systems, Wear OS UI/UX design, and data monitoring dashboards. Familiar with Agile workflows, cross-functional collaboration, and technical documentation. Motivated to contribute to impactful digital and technology-driven solutions.
+## 📌 About Me
+Computer Technology graduate passionate about IoT systems, Wear OS UI/UX, data monitoring dashboards, and product-oriented solutions.  
+Experienced in designing, prototyping, and documenting tech projects with real-world applications. Familiar with Agile work processes, cross-functional collaboration, and continuous improvement.
 
----
+## 🛠 Skills
+**Languages & Platforms**  
+- HTML • SQL • Kotlin (basic) • C++
 
-## Skills
-- IoT & Embedded Systems (ESP32, Sensors)
-- Android Wear OS (UI/UX, Android Studio)
-- Data Monitoring & Visualization (Grafana)
-- Database: MySQL
-- Tools: Jira, YouTrack, Figma
-- Methodologies: Agile & Scrum
+**IoT & Embedded**  
+- ESP32 • Sensor integration • PCB design basics
 
----
+**Mobile & UI/UX**  
+- Android Studio • Wear OS • Figma
 
-## Projects
+**Data & Visualization**  
+- Grafana • MySQL • Dashboard design
 
-### 1. Wear OS Driver Monitoring – UI/UX Prototype
-**Description**  
-Designed a Wear OS interface prototype to monitor driver conditions, focusing on usability and readability for small-screen devices.
+**Tools & Workflow**  
+- Jira • YouTrack • Git • Agile methodology
 
-**Tools**
-- Android Studio
-- Wear OS
-- Figma
-
-**My Role**
-- UI/UX design
-- Feature flow definition
-- Usability testing and iteration
+## 📂 Projects
 
 ---
 
-### 2. IoT-Based Weather Monitoring System
-**Description**  
-Developed an IoT system using ESP32 and rain sensors to monitor weather conditions and display real-time rainfall data.
+### 🟦 Wear OS Driver Monitoring (UI/UX Prototype)
+**Description:**  
+A Wear OS interface designed to monitor driver conditions with high readability and simplicity for small screens.
 
-**Tools**
-- ESP32
-- Arduino IDE
-- Eagle (PCB Design)
+**Highlights**
+- Focus on **UI/UX clarity** and interaction flow  
+- Designed with **Wear OS constraints** in mind
 
-**My Role**
-- Sensor integration
-- Data handling
-- PCB design and optimization
+**Tech Stack**
+Android Studio • Wear OS • Figma
+
+**Role**
+UI design, prototype flow, usability evaluation
+
+📸 **Screenshot / prototype preview**  
+_Add your image here (e.g., `/assets/wear-os-ui.png`)_
 
 ---
 
-### 3. Sensor Data Monitoring Dashboard
-**Description**  
-Created a monitoring dashboard to visualize real-time sensor data for analysis and decision support.
+### 🟧 IoT Weather Monitoring System
+**Description:**  
+An IoT weather monitoring solution using ESP32 and rain sensor modules to collect and log rainfall data for analysis.
 
-**Tools**
-- MySQL
-- Grafana
+**Highlights**
+- Real-time sensor data collection  
+- Effective **hardware–software integration**
 
-**My Role**
-- Data structuring
-- Dashboard design
-- Monitoring flow documentation
+**Tech Stack**
+ESP32 • Arduino IDE
 
-## Education
-Diploma (D3) Computer Technology  
-Telkom University, Bandung  
-GPA: 3.53
+**Role**
+Sensor integration, system setup, data collection
 
+📸 **Photo / diagram preview**  
+_Add your image here (e.g., `/assets/weather-iot.png`)_
 
-## Contact
+---
+
+### 🟩 Sensor Dashboard Visualization (Grafana)
+**Description:**  
+A monitoring dashboard built to visualize real-time sensor data for analytical review and insight.
+
+**Highlights**
+- Data aggregation and visualization  
+- User-friendly panels and alerts
+
+**Tech Stack**
+Grafana • MySQL
+
+**Role**
+Dashboard design, data structuring
+
+📸 **Dashboard preview**  
+_Add your image here (e.g., `/assets/grafana-dashboard.png`)_
+
+---
+
+## 🎓 Education
+**Diploma (D3) in Computer Technology**  
+Telkom University – Bandung • GPA: 3.53
+
+## 📫 Contact
 📧 Email: zahwanis440@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/zahwa-anisya-fatimah-az-zahra-02722b31a
+🔗 LinkedIn: https://linkedin.com/in/your-linkedin-username  
+🔗 GitHub: https://github.com/ZahwaAnisya
 
