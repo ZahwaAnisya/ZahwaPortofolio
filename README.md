@@ -1,8 +1,10 @@
 # 👩‍💻 Zahwa Anisya Fatimah Az-Zahra – Professional Portfolio
 
 ## 📌 About Me
-Computer Technology graduate passionate about IoT systems, Wear OS UI/UX, data monitoring dashboards, and product-oriented solutions.  
-Experienced in designing, prototyping, and documenting tech projects with real-world applications. Familiar with Agile work processes, cross-functional collaboration, and continuous improvement.
+Computer Technology graduate passionate about **IoT systems, Wear OS UI/UX, data monitoring dashboards, and product-oriented solutions**.  
+Experienced in designing, prototyping, and documenting technology projects with real-world applications. Familiar with Agile work processes, cross-functional collaboration, and continuous improvement.
+
+---
 
 ## 🛠 Skills
 **Languages & Platforms**  
@@ -20,73 +22,70 @@ Experienced in designing, prototyping, and documenting tech projects with real-w
 **Tools & Workflow**  
 - Jira • YouTrack • Git • Agile methodology
 
-## 📂 Projects
 
----
+
+## 📂 Projects
 
 ### 🟦 Wear OS Driver Monitoring (UI/UX Prototype)
 **Description:**  
-A Wear OS interface designed to monitor driver conditions with high readability and simplicity for small screens.
+A Wear OS interface designed to monitor driver conditions with high readability and simplicity for small-screen devices.
 
 **Highlights**
 - Focus on **UI/UX clarity** and interaction flow  
 - Designed with **Wear OS constraints** in mind
 
-**Tech Stack**
+**Tech Stack**  
 Android Studio • Wear OS • Figma
 
-**Role**
+**Role**  
 UI design, prototype flow, usability evaluation
 
-📸 **Screenshot / prototype preview**  
-_Add your image here (e.g., `/assets/wear-os-ui.png`)_
+![Wear OS UI](assets/WearOs.png)
 
----
+
 
 ### 🟧 IoT Weather Monitoring System
 **Description:**  
-An IoT weather monitoring solution using ESP32 and rain sensor modules to collect and log rainfall data for analysis.
+An IoT weather monitoring solution using ESP32 and rain sensor modules to collect and display rainfall data for analysis.
 
 **Highlights**
 - Real-time sensor data collection  
-- Effective **hardware–software integration**
+- Hardware–software integration
 
-**Tech Stack**
+**Tech Stack**  
 ESP32 • Arduino IDE
 
-**Role**
+**Role**  
 Sensor integration, system setup, data collection
 
-📸 **Photo / diagram preview**  
-_Add your image here (e.g., `/assets/weather-iot.png`)_
+![IoT Weather](assets/weather.png)
 
----
+
 
 ### 🟩 Sensor Dashboard Visualization (Grafana)
 **Description:**  
-A monitoring dashboard built to visualize real-time sensor data for analytical review and insight.
+A monitoring dashboard built to visualize real-time sensor data for analysis and decision support.
 
 **Highlights**
 - Data aggregation and visualization  
-- User-friendly panels and alerts
+- User-friendly panels and monitoring layout
 
-**Tech Stack**
+**Tech Stack**  
 Grafana • MySQL
 
-**Role**
+**Role**  
 Dashboard design, data structuring
 
-📸 **Dashboard preview**  
-_Add your image here (e.g., `/assets/grafana-dashboard.png`)_
+![Grafana Dashboard](assets/grafana-dashboard.png)
 
----
 
 ## 🎓 Education
 **Diploma (D3) in Computer Technology**  
-Telkom University – Bandung • GPA: 3.53
+Telkom University – Bandung  
+GPA: 3.53
+
 
 ## 📫 Contact
 📧 Email: zahwanis440@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/your-linkedin-username  
+🔗 LinkedIn: https://www.linkedin.com/in/zahwa-anisya-fatimah-az-zahra-02722b31a
 🔗 GitHub: https://github.com/ZahwaAnisya
-
