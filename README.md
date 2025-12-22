@@ -1,4 +1,4 @@
-# 👩‍💻 Zahwa Anisya Fatimah Az-Zahra – Professional Portfolio
+# 👩‍💻 Zahwa Anisya Fatimah Az-Zahra – Portfolio
 
 ## 📌 About Me
 Computer Technology graduate passionate about **IoT systems, Wear OS UI/UX, data monitoring dashboards, and product-oriented solutions**.  
