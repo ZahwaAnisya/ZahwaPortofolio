@@ -7,7 +7,7 @@ Experienced in designing, prototyping, and documenting technology projects with 
 
 ## 🛠 Skills
 **Languages & Platforms**  
-- HTML • SQL • Kotlin (basic) • C++
+- HTML • SQL • Kotlin (basic) • C++ • CSS
 
 **IoT & Embedded**  
 - ESP32 • Sensor integration • PCB design basics
