@@ -128,7 +128,12 @@ SolidWorks
 ## 🎓 Education
 **Diploma (D3) in Computer Technology**  
 Telkom University – Bandung  
+2022-2025
 GPA: 3.53
+
+**Bachelor's degreein Computer Technology**  
+Binus University - Online
+2025-Now
 
 
 ## 📫 Contact
