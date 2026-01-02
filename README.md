@@ -131,7 +131,7 @@ Telkom University – Bandung
 2022-2025
 GPA: 3.53
 
-**Bachelor's degreein Computer Technology**  
+**Bachelor's degree in information system**  
 Binus University - Online
 2025-Now
 
