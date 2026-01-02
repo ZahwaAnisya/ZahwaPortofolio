@@ -19,7 +19,7 @@ Experienced in designing, prototyping, and documenting technology projects with 
 - Grafana • MySQL • Dashboard design
 
 **Tools & Workflow**  
-- Jira • YouTrack • Git • Agile methodology
+- Jira • SolidWorks • YouTrack • Git • Agile methodology 
 
 
 
@@ -76,6 +76,53 @@ Grafana • MySQL
 Dashboard design, data structuring
 
 ![Grafana Dashboard](assets/grafana-dashboard.png)
+
+🟥 3D Tablet Stand Design
+
+**Description:**
+A 3D tablet stand designed as a stable holder for display and demonstration purposes. The structure is optimized for strength, balance, and compatibility with 3D-printing processes.
+
+**Highlights**
+-Ergonomic support for tablet devices
+-Stable base and reinforced structure
+-Printable using common 3D-printer materials
+
+**Tools Used**
+SolidWorks
+
+![TabletStand](assets/TabletStand.png)
+![TabletStand](assets/TabletStand2.png)
+
+🟫 Display Box – Bottom Section Components (in progress)
+
+**Description:**
+Design of the lower part of a display box used to organize electronic components and provide structural support.
+
+**Highlights**
+-Organized internal component placement
+-Improved maintenance accessibility
+-Modular and repair-friendly structure
+
+**Tools Used**
+SolidWorks
+
+![DisplayBox](assets/DisplayBox.png)
+![DisplayBox](assets/DisplayBox2.png)
+
+🟪 Acrylic Holder Design
+
+**Description:**
+Acrylic holder designed to securely support acrylic panels in display systems. The model focuses on dimensional accuracy and ease of assembly.
+
+**Highlights**
+-Precision fit for acrylic sheets
+-Simple and modular assembly
+-Compatible with laser-cut or 3D-printed fabrication
+
+**Tools Used**
+SolidWorks
+
+![AcrylicHolder](assets/AcrylicHolder.png)
 
 
 ## 🎓 Education
