@@ -57,7 +57,6 @@ ESP32 • Arduino IDE
 **Role**  
 Sensor integration, system setup, data collection
 
-![IoT Weather](assets/weather.png)
 ![IoT Weather](assets/weather-dashboard.png)
 
 
